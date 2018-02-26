@@ -9,7 +9,9 @@
     "mocha": "^5.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "1.1.1",
+    "redux": "^3.7.2",
+    "socket.io": "^2.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
